@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    colorPrimary        actionbar使用色
+    colorPrimaryDark    顶部导航栏使用色
+    colorAccent         右下浮动按键使用色
+    -->
+    <color name="colorPrimary">#66CCFF</color>
+    <color name="colorPrimaryDark">#66CCFF</color>
+    <color name="colorAccent">#66CCFF</color>
+
+    <!--表立言-->
+    <color name="天依蓝">#66CCFF</color>
+    <color name="言和绿">#99FFFF</color>
+    <color name="小埋橙">#FF9900</color>
+
+    <!--色表-->
+
+    <!--红-->
+    <color name="红1">#F9BDBB</color>
+    <color name="红2">#F36C60</color>
+    <color name="红3">#E51C23</color>
+    <color name="红4">#D01716</color>
+    <color name="红5">#B0120A</color>
+
+    <!--紫-->
+    <color name="紫1">#E1BEE7</color>
+    <color name="紫2">#BA68C8</color>
+    <color name="紫3">#9C27B0</color>
+    <color name="紫4">#7B1FA2</color>
+    <color name="紫5">#4A128C</color>
+
+    <!--粉-->
+    <color name="粉1">#F8BBD0</color>
+    <color name="粉2">#F06292</color>
+    <color name="粉3">#E91E63</color>
+    <color name="粉4">#C2185B</color>
+    <color name="粉5">#880E4F</color>
+
+    <!--水蓝Cyan-->
+    <color name="水蓝Cyan1">#B2EBF2</color>
+    <color name="水蓝Cyan2">#4DD0E1</color>
+    <color name="水蓝Cyan3">#00BCD4</color>
+    <color name="水蓝Cyan4">#0097A7</color>
+    <color name="水蓝Cyan5">#006064</color>
+
+    <!--绿Teal-->
+    <color name="绿Teal1">#B2DFBD</color>
+    <color name="绿Teal2">#4DB6AC</color>
+    <color name="绿Teal3">#009688</color>
+    <color name="绿Teal4">#00796B</color>
+    <color name="绿Teal5">#004D40</color>
+
+    <!--黄Yellow-->
+    <color name="黄Yellow1">#FFF9C4</color>
+    <color name="黄Yellow2">#FFF176</color>
+    <color name="黄Yellow3">#FFFEB3</color>
+    <color name="黄Yellow4">#FBC02D</color>
+    <color name="黄Yellow5">#F57F17</color>
+
+    <!--橙Orange-->
+    <color name="橙Orange1">#FFE0B2</color>
+    <color name="橙Orange2">#FFB74D</color>
+    <color name="橙Orange3">#FF9800</color>
+    <color name="橙Orange4">#F57C00</color>
+    <color name="橙Orange5">#E65110</color>
+
+    <!--棕Brown-->
+    <color name="棕Brown1">#D7CCC8</color>
+    <color name="棕Brown2">#A1887F</color>
+    <color name="棕Brown3">#795548</color>
+    <color name="棕Brown4">#5D4037</color>
+    <color name="棕Brown5">#3E2723</color>
+
+    <!--灰-->
+    <color name="白烟">#F5F5F5</color>
+    <color name="庚斯博罗灰">#DCDCDC</color>
+    <color name="银灰">#C0C0C0</color>
+    <color name="暗淡灰">#696969</color>
+    <color name="纯黑">#000000</color>
+
+</resources>
